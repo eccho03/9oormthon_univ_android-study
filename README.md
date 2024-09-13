@@ -1,4 +1,4 @@
-# 9oormthonUNIT 3기 아주대학교 Android 스터디
+# 9oormthonUNIV 3기 아주대학교 Android 스터디
 - 대표 : 홍성산
 - 스터디원 : 조은채, 홍성산
 - 모임 요일 : 매주 화요일 8시, 오프라인/온라인 병행
